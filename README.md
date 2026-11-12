@@ -1,29 +1,41 @@
-<img align="center" src="capa.png" alt="Letícia Caldas – Geoprocessamento, Sensoriamento Remoto, GeoAI e Agentes de IA"><br>
+<img align="center" src="capa.png" alt="Letícia Caldas – Simulação, Geoprocessamento, GeoAI e Agentes de IA"><br>
 
 <br>
 
 ## Sobre mim
 
-Sou **analista e desenvolvedora de sistemas** e **especialista em Inteligência Artificial e Ciência de Dados**. Trabalho com **geoprocessamento, sensoriamento remoto, GeoAI e agentes de IA**. Sou bolsista de pesquisa na **Embrapa**, onde processo e analiso dados geoespaciais com **Python, PostgreSQL/PostGIS e QGIS**, e aplico modelagem e inteligência artificial a riscos climáticos e recursos hídricos.
+Sou **analista e desenvolvedora de sistemas** e **especialista em Inteligência Artificial e Ciência de Dados**. Meu trabalho une **simulação computacional, geoprocessamento e inteligência artificial** para entender e antecipar problemas ambientais, como inundações, deslizamentos e riscos climáticos.
 
-Na **GeoAI**, uno aprendizado de máquina e dados de satélite: tenho experiência com imagens ópticas (**Sentinel-2, Landsat e GeoEye-1**) e venho me aprofundando em **radar de abertura sintética (SAR)** com Sentinel-1 no **Google Earth Engine**. Em **agentes de IA**, pesquiso **sistemas multiagente integrados a LLMs** na Universidade Federal de Pelotas e desenvolvo simulações baseadas em agentes.
+Sou bolsista de pesquisa na **Embrapa**, onde desenvolvo **modelos de simulação baseada em agentes** na plataforma **GAMA** e participo do desenvolvimento do **CHS (Caldas Hydrological Simulator)**, que integra SIG, modelagem hidrológica e IA. Também pesquiso **agentes de IA**, combinando **sistemas multiagente e LLMs**, na Universidade Federal de Pelotas.
+
+Para alimentar e validar esses modelos, trabalho com **dados geoespaciais e imagens de satélite** (Sentinel-1, Sentinel-2 e Landsat) em **Python, PostGIS, QGIS e Google Earth Engine**.
 
 <img align="right" alt="" height="190px" src="anime1.gif"/>
 
-### Interesses
+### Áreas de atuação
 
-- Pré-processamento de imagens ópticas e SAR
-- Detecção de alvos e monitoramento marítimo
-- Mapeamento de inundações e riscos climáticos
-- GeoAI: aprendizado de máquina aplicado a dados geoespaciais
-- Agentes de IA: sistemas multiagente com LLMs e programação orientada a agentes (JaCaMo)
-- Simulação baseada em agentes (GAMA)
+- **Simulação baseada em agentes:** evacuação, inundações e riscos em encostas (GAMA, NetLogo)
+- **Modelagem hidrológica** integrada a SIG
+- **Agentes de IA:** sistemas multiagente com LLMs e programação orientada a agentes (JaCaMo)
+- **GeoAI:** aprendizado de máquina aplicado a dados geoespaciais
+- **Sensoriamento remoto:** imagens ópticas e SAR, índices espectrais e análise multitemporal
+- **Bancos de dados geográficos** e automação em Python
 
 <br clear="right"/>
 
+## Projetos em destaque
+
+| Projeto | O que faz | Tecnologias |
+| --- | --- | --- |
+| **CHS – Caldas Hydrological Simulator** | Simulador para análise espacial, gestão de recursos hídricos e avaliação de riscos climáticos em encostas da Serra Gaúcha (Embrapa) | Python, SIG, modelagem hidrológica, IA |
+| **Cheia de 2024 do rio Taquari** | Cenários de inundação com geoagentes a partir de MDT de LiDAR em drone, validados com MNDWI em imagem Sentinel-2 (submetido ao SBSR) | GAMA, QGIS, Sentinel-2 |
+| **Evacuação em cenários de inundação – Estrela, RS** | Modelagem baseada em agentes da exposição e da evacuação da população durante inundações (TCC) | GAMA, SIG |
+| **Sistemas multiagente com LLMs** | Agentes autônomos que integram raciocínio BDI e grandes modelos de linguagem; revisão sistemática publicada no WESAAC 2025 | JaCaMo, LLMs |
+| **Estudos com SAR** | Mapeamento de inundação e detecção de alvos com Sentinel-1 | Google Earth Engine, Python |
+
 ## Tecnologias
 
-**Linguagens e dados**
+**Linguagens, dados e IA**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
@@ -41,14 +53,22 @@ Na **GeoAI**, uno aprendizado de máquina e dados de satélite: tenho experiênc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn" title="scikit-learn"/>
 </div>
 
+**Simulação e agentes**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GAMA%20Platform-2E7D32?style=for-the-badge" alt="GAMA Platform"/>
+  <img src="https://img.shields.io/badge/JaCaMo-6A1B9A?style=for-the-badge" alt="JaCaMo"/>
+  <img src="https://img.shields.io/badge/NetLogo-37474F?style=for-the-badge" alt="NetLogo"/>
+  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" alt="LLMs"/>
+</div>
+
 **Geoprocessamento e sensoriamento remoto**
 
 <div align="left">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" alt="Google Earth Engine"/>
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" alt="Google Earth Engine"/>
   <img src="https://img.shields.io/badge/Sentinel--1%20%7C%20Sentinel--2-003247?style=for-the-badge" alt="Sentinel-1 e Sentinel-2"/>
-  <img src="https://img.shields.io/badge/GAMA%20Platform-2E7D32?style=for-the-badge" alt="GAMA Platform"/>
 </div>
 
 **Ferramentas**
@@ -68,7 +88,7 @@ Na **GeoAI**, uno aprendizado de máquina e dados de satélite: tenho experiênc
 ## Experiência
 
 - **Bolsista de pesquisa – Embrapa Uva e Vinho** (2026–atual)
-  Modelos de simulação na plataforma GAMA, processamento de dados geoespaciais em Python e desenvolvimento do CHS (Caldas Hydrological Simulator), voltado a riscos climáticos em encostas da Serra Gaúcha.
+  Modelos de simulação na plataforma GAMA, processamento de dados geoespaciais em Python e desenvolvimento do CHS, voltado a riscos climáticos em encostas da Serra Gaúcha.
 - **Bolsista de estímulo à inovação – Embrapa** (2025–atual)
   Bancos de dados geográficos em PostgreSQL/PostGIS, servidores Linux e scripts Python para automação e modelos de IA.
 - **Pesquisadora colaboradora – UFPel** (2025–atual)
@@ -83,12 +103,6 @@ Na **GeoAI**, uno aprendizado de máquina e dados de satélite: tenho experiênc
 - **Engenharia de Computação** – Universidade Federal de Pelotas (em andamento)
 - **Engenharia de Software** – Centro Universitário UniFatecie (em andamento)
 - **Análise e Desenvolvimento de Sistemas** – Centro Universitário UniFatecie (2024–2026)
-
-## Trabalhos recentes
-
-- **Cenários da cheia de 2024 do rio Taquari** (submetido ao SBSR): modelo de inundação com geoagentes, MDT de LiDAR em drone e validação com o índice MNDWI em imagem Sentinel-2.
-- **Solos atingidos pela inundação de maio de 2024 no RS** e **APPs hídricas teóricas do RS** – trabalhos técnicos, 2026.
-- **Revisão sistemática integrando sistemas multiagente e LLMs** – WESAAC, 2025.
 
 ## Contato
 
